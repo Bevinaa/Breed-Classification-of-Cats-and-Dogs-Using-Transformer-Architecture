@@ -143,8 +143,8 @@ To further enhance classification performance and generalization, we employ a **
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/cat-dog-transformer-classification.git
-cd cat-dog-transformer-classification
+git clone [https://github.com/<your-username>/cat-dog-transformer-classification.git](https://github.com/Bevinaa/Breed-Classification-of-Cats-and-Dogs-Using-Transformer-Architecture)
+cd Breed-Classification-of-Cats-and-Dogs-Using-Transformer-Architecture
 
 # Run feature extraction
 python extract_features.py
