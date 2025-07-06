@@ -1,5 +1,9 @@
 # Cat and Dog Breed Classification using Transformer Architectures
 
+![Tech Stack](https://img.shields.io/badge/tech%20stack-Python%20%7C%20Transformers%20%7C%20Deep%20Learning-blue)
+
+![Status](https://img.shields.io/badge/status-Project%20Complete-brightgreen)
+
 ## Overview
 
 This project introduces a robust and scalable deep learning framework tailored for **fine-grained classification of cat and dog breeds**, a task that presents challenges due to high inter-class similarity (between breeds) and intra-class variation (within the same breed). The proposed pipeline leverages the **latest advancements in computer vision**, specifically **Transformer-based architectures** like **Vision Transformer (ViT)**, **Swin Transformer**, **DeiT**, **BEiT**, and **ConvNeXt**, to extract rich, high-level semantic features from pet images. These models are known for their ability to capture long-range dependencies and fine-grained details, enabling better differentiation between visually similar breeds.
