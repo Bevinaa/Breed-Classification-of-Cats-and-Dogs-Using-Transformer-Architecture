@@ -1,4 +1,4 @@
-# Breed Classification of Cats and Dogs using Transformer Architectures
+# Breed Classification of Cats and Dogs using Transformer Architecture
 
 ![Tech Stack](https://img.shields.io/badge/tech%20stack-Python%20%7C%20Transformers%20%7C%20Deep%20Learning-blue)
 
