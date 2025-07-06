@@ -159,17 +159,6 @@ python evaluate_model.py
 python predict_pet.py
 ```
 
----
-
-## Citation
-
-```
-Metaheuristic-Driven Feature-Based Classification of Cat and Dog Breeds Using Transformer Architectures
-Bevina R., 2025
-```
-
----
-
 ## Contact
 
 **Bevina R.**  
